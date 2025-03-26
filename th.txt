@@ -1,0 +1,56 @@
+PYTHON scripting..
+python develop --> year:
+
+python -->
+Desktop   :
+WEB       :
+data sci  :
+game      :
+scrapping :
+IOT       :
+
+python :
+script :
+file   : .py
+
+DATA TYPES:
+int
+float
+bool
+string
+NoneType
+
+
+cin>>no1;
+
+cin and count are referance variable | object of input and output stream calss
+input()
+
+type castinh
+implcit:
+explicit:
+
+int no1 =100.20
+printf("%d",no1); 100
+
+narrow type :float --> int 
+broad type  :int --> float
+
+
+operators:
+unery operators : ++ , --
+binery : 
+
+arithmetic operator: =,-,8,/,%, // floor, ** expo
+relational ope : ==,<=,>=,!=,<,>
+logical operator:and,or,not
+bitwiseOperaotr: <,>,<<,>> &
+ternery op =  ?,:
+asignment ope : = , +=
+
+
+decision making statments:
+
+if 
+switch case : match case
+loops
