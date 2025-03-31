@@ -47,6 +47,8 @@ logical operator:and,or,not
 bitwiseOperaotr: <,>,<<,>> &
 ternery op =  ?,:
 asignment ope : = , +=
+membership operator = in, not in  " " in  "hello"
+identity operator : is, is not
 
 
 decision making statments:
@@ -54,3 +56,6 @@ decision making statments:
 if 
 switch case : match case
 loops
+
+entry control loop : for,while ,
+#exit control loop : do while
