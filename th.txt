@@ -59,3 +59,7 @@ loops
 
 entry control loop : for,while ,
 #exit control loop : do while
+       3
+153 : 1 + 5 + 3 = 1 + 125 + 27 = 153
+
+1634 = 
