@@ -63,3 +63,18 @@ entry control loop : for,while ,
 153 : 1 + 5 + 3 = 1 + 125 + 27 = 153
 
 1634 = 
+
+
+
+user balance :- min 10000 
+
+9000 -->pls enter again
+900 --> pls enter again
+8990 -> pls enter ahin
+--your chance are done..
+
+get monthly salary of user calulate pa salary
+if user's sal grt >1000000 10%
+7 to 10 --> 8%
+5 to 7 -> 6 
+5< no loan
