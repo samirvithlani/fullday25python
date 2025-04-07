@@ -78,3 +78,20 @@ if user's sal grt >1000000 10%
 7 to 10 --> 8%
 5 to 7 -> 6 
 5< no loan
+
+
+
+string 
+
+string immutable
+
+#123
+no = 121
+#stirng typecast
+strno = str(no) #"123"
+revno = ""
+for i in range(len(strno)-1,-1,-1):
+    revno+=strno[i] #321
+
+if strno == revno:
+    print("palindrome...")  
