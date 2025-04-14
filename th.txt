@@ -95,3 +95,8 @@ for i in range(len(strno)-1,-1,-1):
 
 if strno == revno:
     print("palindrome...")  
+
+
+without using upper and lower -->
+
+enter name --> lower --> upper : ord chr
