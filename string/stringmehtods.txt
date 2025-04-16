@@ -1,0 +1,22 @@
+index :
+count :
+isalnum:
+isalpha:
+isdecimal:
+isdigit
+isupper
+islower
+isprintable
+isspace
+istitle
+
+upper
+lower
+swapcase
+title
+capitilize
+lstrip
+rstrip
+strip
+split
+join
