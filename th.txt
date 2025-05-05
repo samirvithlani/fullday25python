@@ -100,3 +100,22 @@ if strno == revno:
 without using upper and lower -->
 
 enter name --> lower --> upper : ord chr
+
+Array:
+python DS:
+list:
+char:
+1)list is collection of data
+2)we can store heterogeneous data
+3)list is mutable
+4)list is ordered collection of data eg:[10,20,30]
+5)list is dynamic in nature : grow shrink
+6)list is iterable, and subscriptable
+7)list is index based
+8)data type of list is list
+
+how t declare list: eg : data =[] # empty list
+
+tuple
+set
+dict
