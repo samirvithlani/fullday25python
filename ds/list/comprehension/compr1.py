@@ -23,4 +23,16 @@ print(evenNumbers)
 students = ["","amit","raj","","parth",None]
 cleanStu = [i for i in students if i]
 print(cleanStu)
+
+x = ["hi","hello","ok","java"]
+data = [len(i) for i in x]
+print(data)
+
+name = "1amit234"
+#[1,2,3,4]
+
+numbers = [i for i in name if i.isdigit()]
+print(numbers)
+
+
     
