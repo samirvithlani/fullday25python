@@ -144,3 +144,30 @@ dict:
 3)dict in mutable
 4)dict allows heterogeneous value as well key
 
+
+
+please press y for continue n for stop
+y:
+
+plrase enter name:
+please enter marks:
+
+please press y for continue n for stop
+y:
+plrase enter name:
+please enter marks:
+
+
+please press y for continue n for stop
+y:
+plrase enter name:
+please enter marks:
+
+please press y for continue n for stop
+n:
+
+ram 78
+
+
+
+
