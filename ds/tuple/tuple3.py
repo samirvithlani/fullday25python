@@ -12,3 +12,16 @@ history =[["youtube","google","facebook","insta"],["youtube","netflix","hotstar"
           ["jiocinema","prime","facbook"]]
 history[1].remove("netflix")
 print(history)
+
+
+
+
+
+shop1 = [("apple",100),("water",10)]
+
+# for i in shop1:
+#     for j in i:
+#         print(j)
+
+# for i,j in shop1:
+#     print(i,j)

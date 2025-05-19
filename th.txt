@@ -136,3 +136,11 @@ tuple stores data in index
 tuple os ordered
 tuple is iterable
 tuple is subscriptable
+
+
+dict:
+1)dict stores data in key:value
+2)all keys are unique in dict
+3)dict in mutable
+4)dict allows heterogeneous value as well key
+
