@@ -28,9 +28,24 @@
 # data = {i:len(i) for i in names if len(i)>5}
 # print(data)
 
+# names = ["ram","shyam","amit thakkar","sumit","kunal patel","ajay jadeja"]
+# #{name:len,name:len}
+
+# data = {i:len(i) for i in names if " " in i}
+# print(data)
+
 names = ["ram","shyam","amit thakkar","sumit","kunal patel","ajay jadeja"]
+marks = [10,20,30,40,50,60]
 #{name:len,name:len}
 
-data = {i:len(i) for i in names if " " in i}
+data = {names[i]:marks[i] for i in range(0,len(names))}
 print(data)
 
+# data = {i for i in zip(names,marks)}
+# print(data)
+
+names = ["ram","bob","naman","shah","racecar"]
+#{"ram":"no","bob":"yes"}
+
+palindromenames = {i:"yes" if i == i[::-1] else "no" for i in names}
+print(palindromenames)

@@ -169,5 +169,17 @@ n:
 ram 78
 
 
+set:
+set is dynamic
+set is unordered collection of data
+set is mutable
+set allows heterogeneous data
+set is iterable
+set is not subscriptable
+set is collection of unique data
+data type of set is set
+{}
+
+
 
 
