@@ -7,3 +7,12 @@ for i,j in data.items():
         cities.add(city)
 
 print(cities)        
+
+city_names = list(data.keys())
+print(city_names)
+common_areas = data[city_names[0]].copy()
+
+for name in city_names[1:]:
+    common_areas = common_areas.intersection(data[name])
+
+print(common_areas)    
