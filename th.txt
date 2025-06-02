@@ -182,4 +182,14 @@ data type of set is set
 
 
 
+data = {
+    "india":[""],
+    "usa" : [""],
+    "china":[""]
+}
 
+-->state
+-->common state :
+
+
+indeiaState = data["india"] #list
