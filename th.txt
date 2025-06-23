@@ -193,3 +193,18 @@ data = {
 
 
 indeiaState = data["india"] #list
+
+
+args:
+1)pass all strings in args and return all in upper as list use list comprehension
+2)pass all numbers in args and return max number from iterable
+3)pass all numbers in argd and check all numbers are int or not
+
+
+
+KWARGS: task
+1) create function accetpeting kwargs and return all keys and values in dict
+2) create function accepting kwargs and return all keys and values in dict where value is int only
+3) create function accepting kwargs and return all keys and values in dict where value is string only
+4) find max value from kwargs where value is int only
+
