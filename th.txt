@@ -208,3 +208,30 @@ KWARGS: task
 3) create function accepting kwargs and return all keys and values in dict where value is string only
 4) find max value from kwargs where value is int only
 
+
+MINI PROJECT:
+online fruit vender shop
+menu driven:
+1)display item :
+    name price  stock
+    apple 100    100
+    kiwi  80      50
+    mango 200     200
+
+2)purchase
+enter fruit name:
+apple :valid --> please enter qty: 70-->valid -->product added to cart..
+apl -->not valid... added item is not valid...
+apple -->valid --->please enter qty: 1000 --> no enougn qty avaialble...
+3)display cart
+apple 70 total 
+mango 10 total
+total bill :total
+press 1 for checkout -> thanks for purchase
+                     -->stock 100 - 70 -- 30
+press 0 for clear cart :
+menu:::::::::::
+
+
+
+
