@@ -14,3 +14,8 @@ users = ["ram","shyam","amit","sumit","seeta"]
 
 upperUser = map(lambda x:x.upper(),users)
 print(list(upperUser))
+
+
+x= lambda *args: sum(args)
+
+print(x(10,20,30))
