@@ -1,0 +1,7 @@
+Student Name    = yash thakkar
+Student Age     = 22
+Student Roll NO = 007
+Subject      Marks      
+Maths      77
+English      76
+social      88
