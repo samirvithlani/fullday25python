@@ -36,4 +36,9 @@ for i in getStudents():
     print(i)    
     
     
-#def getStudents(total,batch):    
+def getStudents(total,batch):    
+    for i in range(0,total,batch):
+        yield [f"student {j}" for j in range(i+1,i+batch+1)]
+
+for i in getStudents(100,10):
+    print(i)        
