@@ -233,5 +233,31 @@ press 0 for clear cart :
 menu:::::::::::
 
 
+oops:
+encapsulation:
+   defination:to wrap data and methods in single unit is called encapsulation
+   example: class, object, method, constructor
+inheritance:
+polymorphism:
+abstraction:
+
+class:
+1)class is blueprint of object
+2)class is collection of data and methods
+3)class is user defined data type
+4)class is logical entity
+5)class is template of object
+6)class is collection of attributes and methods
+7)class is collection of properties and methods
+8)class is collection of data and functions
+
+
+
+object:
+1)object is instance of class
+2)object is real world entity
+4)object is physical entity
+
+
 
 
