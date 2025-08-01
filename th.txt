@@ -259,5 +259,9 @@ object:
 4)object is physical entity
 
 
+parent --> child ->subchild
+x -->y-->z
 
+z --> getDetail():
+       
 
